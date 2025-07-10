@@ -26,7 +26,7 @@
 wget https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh && chmod +x xenonnet.sh && ./xenonnet.sh
 ```
 
-### Option 2: Download and Run
+### Option 2: Download and Run Step by Step
 ```bash
 wget https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh
 chmod +x xenonnet.sh
