@@ -23,7 +23,7 @@
 
 ### Option 1: Direct from GitHub
 ```bash
-wget -qO- https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh | bash
+wget https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh && chmod +x xenonnet.sh && ./xenonnet.sh
 ```
 
 ### Option 2: Download and Run
