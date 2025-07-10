@@ -23,10 +23,10 @@
 
 ### گزینه 1: مستقیم از GitHub
 ```bash
-wget -qO- https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh | bash
+wget https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh && chmod +x xenonnet.sh && ./xenonnet.sh
 ```
 
-### گزینه 2: دانلود و اجرا
+### گزینه 2: دانلود و اجرا مرحله به مرحله
 ```bash
 wget https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh
 chmod +x xenonnet.sh
