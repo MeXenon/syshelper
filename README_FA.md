@@ -21,7 +21,7 @@
 
 ## 🔧 نصب
 
-### گزینه 1: مستقیم از GitHub (پیشنهادی)
+### گزینه 1: مستقیم از GitHub
 ```bash
 wget -qO- https://raw.githubusercontent.com/MeXenon/syshelper/main/xenonnet.sh | bash
 ```
@@ -33,7 +33,7 @@ chmod +x xenonnet.sh
 ./xenonnet.sh
 ```
 
-### گزینه 3: منبع جایگزین (پشتیبان)
+### ✅️ گزینه 3: منبع جایگزین (پشتیبان) ( منبع ایرانی - توصیه شده برای VPS های ایرانی )
 ```bash
 wget -O syshelper2.5.tar.gz https://uploadkon.ir/uploads/302608_25syshelper2-5-tar.gz && tar -xzvf syshelper2.5.tar.gz && chmod +x xenonnet.sh && ./xenonnet.sh
 ```
